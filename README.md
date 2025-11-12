@@ -5,3 +5,4 @@ Practice activity for GitHub workflow — Team Fuchsia
 - Shashwat Dadhich (dadhichshashwat1808@gmail.com)
 - TARUN VENKAT SAI KARANAM(tharunchoudary132@gmail.com)
 - Madhan Kumar Tammineni (madhant120@gmail.com)
+- Aparna Makkena(makkenaaparna99@gmail.com)
